@@ -1,6 +1,6 @@
 # OLA_Project
 
-This Online Learning Applications project was developed by Aygalic Jara, Christopher Volpi, Giulia Montani, Luca Mainini and Roberta Troilo. 
+This Online Learning Applications project was developed by [Aygalic Jara](https://github.com/aygalic), [Christopher Volpi](https://github.com/FoxChris99), [Giulia Montani](https://github.com/GiuliaMontani), [Luca Mainini](https://github.com/lucamainini) and [Roberta Troilo](https://github.com/robertatroilo). 
 It aimed to implement a pricing algorithm based on multi-armed bandit for a small e-commerce platform.
 
 ## E-COMMERCE
