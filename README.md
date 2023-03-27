@@ -32,4 +32,4 @@ We implemented different classes for the simulation:
 - Dynamic UCB and TS
 
 
-README made by [Luca Mainini](https://github.com/lucamainini)
+README written by [Luca Mainini](https://github.com/lucamainini)
